@@ -3008,6 +3008,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"lodash.debounce@npm:^4.0.8":
+  version: 4.0.8
+  resolution: "lodash.debounce@npm:4.0.8"
+  checksum: a3f527d22c548f43ae31c861ada88b2637eb48ac6aa3eb56e82d44917971b8aa96fbb37aa60efea674dc4ee8c42074f90f7b1f772e9db375435f6c83a19b3bc6
+  languageName: node
+  linkType: hard
+
 "lodash.get@npm:^4.4.2":
   version: 4.4.2
   resolution: "lodash.get@npm:4.4.2"
@@ -4363,6 +4370,8 @@ __metadata:
     eslint-plugin-react-refresh: ^0.3.4
     gh: ^2.8.9
     homebrew: ^0.1.0
+    lodash: ^4.17.21
+    lodash.debounce: ^4.0.8
     react: ^18.2.0
     react-dom: ^18.2.0
     typescript: ^5.0.2
